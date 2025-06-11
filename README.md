@@ -102,7 +102,6 @@ knowledge-hub/
 ├── public/                    # Static assets
 │   ├── questions_papers/      # PDF files of question papers
 │   ├── study_materials/       # Study material PDFs
-│   └── lovable-uploads/       # Image assets and screenshots
 ├── src/
 │   ├── components/            # Reusable UI components
 │   │   ├── common/           # Common components (Header, Footer)
@@ -143,9 +142,9 @@ knowledge-hub/
 
 | Feature | Preview |
 |---------|---------|
-| **Main Dashboard** | ![Dashboard](public/lovable-uploads/c0c247c7-8340-4e0c-9690-799ad85d5329.png) |
-| **Dark Mode** | *Add your dark mode screenshot link here* |
-| **Mobile View** | *Add your mobile screenshot link here* |
+| **Main Dashboard** | ![Dashboard](https://github.com/Aakash-M-o-d-i/KnowledgeHubPYQss/blob/main/public/mainPage.png) |
+| **Dark Mode** | ![dark_mode](https://github.com/Aakash-M-o-d-i/KnowledgeHubPYQss/blob/main/public/dark_mode.png) |
+| **Mobile View** | ![Mobile_view](https://github.com/Aakash-M-o-d-i/KnowledgeHubPYQss/blob/main/public/Mobile_view.jpeg)  |
 
 ---
 

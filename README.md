@@ -3,7 +3,7 @@
 
 Knowledge Hub is a comprehensive platform designed to help university students access previous year question papers, study materials, and interactive quizzes to prepare for their exams effectively.
 
-![Knowledge Hub Preview]()
+![Knowledge Hub Preview](https://github.com/Aakash-M-o-d-i/KnowledgeHubPYQss/blob/main/public/Screenshot%20From%202025-06-11%2022-01-25.png)
 
 ---
 
